@@ -45,4 +45,4 @@ I'm currently pursuing a Bachelor's in Computer Science & Engineering.
 - [ ] Shower
 - [ ] Sleep
 
-[Relative Link](../relative_link.txt)
+[Relative Link](relative_link.txt)
