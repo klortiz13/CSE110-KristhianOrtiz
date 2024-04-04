@@ -5,7 +5,7 @@
 ### UC San Diego
 I'm currently pursuing a Bachelor's in Computer Science & Engineering.
 ## Experience
-### Computer Science Dept. at UC San Diego - Data Structures Tutor               (JAN 2024 - CURRENT)
+### Computer Science Dept. at UC San Diego - Data Structures Tutor               <sub>(JAN 2024 - CURRENT)</sub>
 > Performed personalized, on-demand tutoring services for +100 students.\
 > Developed welcoming & engaging 1-1 environments using effective communication techniques. \
 > Increased retention of CSE students from diverse backgrounds and helped them become actively engaged with the course material.
