@@ -34,12 +34,12 @@ I'm currently pursuing a Bachelor's in Computer Science & Engineering.
 > * I love working out! I lost +200 lbs in 2 years.\
 > * Code in `Python`, `Java`, `C`, `C#`, `C++`, `ARM`, `Flutter Dart`, `Kotlin`, and `Type/JavaScript`.
 
-- [] Wake up
-- [] Eat
-- [] Grind
-- [] Eat
-- [] Code
-- [] Workout
-- [] Eat
-- [] Shower
-- [] Sleep
+- [ ] Wake up
+- [ ] Eat
+- [ ] Grind
+- [ ] Eat
+- [ ] Code
+- [ ] Workout
+- [ ] Eat
+- [ ] Shower
+- [ ] Sleep
