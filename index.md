@@ -48,5 +48,11 @@ I'm currently pursuing a Bachelor's in Computer Science & Engineering.
 [Relative Link](relative_link.md)
 
 # Top 3 Videogames
+## The Legend of Zelda
 ![Zelda](https://github.com/klortiz13/kristhia13/assets/147196544/8eb865be-a64a-4983-8af3-48779534eeb9)
+## Kingdom Hearts
+
+## Guitar Hero
+![Guitar Hero](https://github.com/klortiz13/kristhia13/assets/147196544/6679b5d5-2a8a-4e43-b8c2-54975eee3f06)
+
 
