@@ -53,7 +53,8 @@ I'm currently pursuing a Bachelor's in Computer Science & Engineering.
 ## Kingdom Hearts
 
 ## Guitar Hero
-![Guitar Hero](https://github.com/klortiz13/kristhia13/assets/147196544/0ae1cbf3-1a68-49af-b28a-a1f5cb480807)
+![Guitar Hero](https://github.com/klortiz13/kristhia13/assets/147196544/624ba8a6-312d-488e-a696-d6e136da1da6)
+
 
 
 
