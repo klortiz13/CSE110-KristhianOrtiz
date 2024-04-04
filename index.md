@@ -5,4 +5,24 @@
 ### UC San Diego
 I'm currently pursuing a Bachelor's in Computer Science & Engineering.
 ## Experience
+### Computer Science Dept. at UC San Diego - Data Structures Tutor               JAN 2024 - CURRENT
+Performed personalized, on-demand tutoring services for +100 students.
+Developed welcoming & engaging 1-1 environments using effective communication techniques. 
+Increased retention of CSE students from diverse backgrounds and helped them become actively engaged with the course material.
+### ITS Department at UC San Diego - Student Software Engineer                    OCT 2023 - CURRENT
+Designed and maintained new features in UCSD’s Campus App (https://mobile.ucsd.edu/)
+Designed automation scripts for Google & Microsoft Excel to streamline project workflows.
+Tested and troubleshooted software for quality assurance.
+Used dev & state management technologies: Docker, Flutter, Figma, FireBase, AWS, etc.
+### Naval Computer & Telecom. Station - Information Systems Technician           JAN 2022 - CURRENT
+Troubleshoot and install Naval computers and maintain secret networks.
+Fire Fighting, Shooting, Swimming, and Basic Seamanship.
+Attention to detail under stressful environments.
+On the ship: Handle and maintain top-secret satellite communications & radio antennas.
+### SHARP Grossmont Hospital - Sodexo Chef                                                           JAN - OCT 2023
+Independently prepared meals for +400 patients and doctors.
+Strong teamwork and two-way communication.
+Outstanding Customer Service Award.
+Excellent coordination in a Fast-Paced environment.
+
 ## Interests & Skills
