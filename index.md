@@ -15,10 +15,10 @@ I'm currently pursuing a Bachelor's in Computer Science & Engineering.
 > 3. Tested and troubleshooted software for quality assurance.\
 > 4. Used dev & state management technologies: Docker, Flutter, Figma, FireBase, AWS, etc.
 ### Naval Computer & Telecom. Station - `Information Systems Technician`           <sub>(JAN 2022 - CURRENT)</sub>
-> Troubleshoot and install Naval computers and maintain secret networks.\
-> Fire Fighting, Shooting, Swimming, and Basic Seamanship.\
-> Attention to detail under stressful environments.\
-> On the ship: Handle and maintain top-secret satellite communications & radio antennas.
+> 1. Troubleshoot and install Naval computers and maintain secret networks.\
+> 2. Fire Fighting, Shooting, Swimming, and Basic Seamanship.\
+> 3. Attention to detail under stressful environments.\
+> 4. On the ship: Handle and maintain top-secret satellite communications & radio antennas.
 ### SHARP Grossmont Hospital - `Sodexo Chef`                                                           <sub>(JAN - OCT 2023)</sub>
 > 1. Independently prepared meals for +400 patients and doctors.\
 > 2. Strong teamwork and two-way communication.\
@@ -34,3 +34,12 @@ I'm currently pursuing a Bachelor's in Computer Science & Engineering.
 > * I love working out! I lost +200 lbs in 2 years.\
 > * Code in `Python`, `Java`, `C`, `C#`, `C++`, `ARM`, `Flutter Dart`, `Kotlin`, and `Type/JavaScript`.
 
+[] Wake up
+[] Eat
+[] Grind
+[] Eat
+[] Code
+[] Workout
+[] Eat
+[] Shower
+[] Sleep
